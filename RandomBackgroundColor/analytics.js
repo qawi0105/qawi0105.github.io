@@ -1,6 +1,6 @@
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-37775884-1']);
-_gaq.push(['_setDomainName', 'jenniferdewalt.com']);
+_gaq.push(['_setDomainName', 'wiseweb.com.my']);
 _gaq.push(['_trackPageview']);
 
 (function() {
