@@ -1,3 +1,3 @@
 var message = prompt("Write something to shout");
-var shout = shout.toUpperCase();
+var shout = message.toUpperCase();
 document.write(shout + "!!!!!!!!!");
